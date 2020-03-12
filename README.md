@@ -10,7 +10,7 @@ git clone git@gitlab.qima-inc.com:huxuewang/safari-h5.git
 
 ### 2、XCode导入项目
 
-打开XCode, 选择已经考下来的项目
+打开XCode, 选择已经拉下来的项目
 ![选择图片位置](https://img.yzcdn.cn/public_files/f1f30a7eee59fb990b74f9478bd85ab6.png)
 
 ### 3、修改h5地址
